@@ -1,0 +1,22 @@
+video {
+	position: absolute;
+	left:5;
+	top:5;
+	right:5;
+	bottom:5;
+	min-width:50%;
+	min-height: 100%;
+	z-index: -700;
+}
+body {
+	background-color: blue;
+} 
+* {
+	display: block;
+	text-align: center;
+	color:orange;
+	font-family: 'Comic Sans MS',sans-serif;
+}
+h1{font-weight:200;
+font-size:130px;
+}
